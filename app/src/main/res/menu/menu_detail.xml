@@ -1,0 +1,23 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.popularmovies2.ui.DetailActivity">
+
+    <item
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/action_fav"
+        android:icon="@drawable/ic_favorite_border_black_24dp"
+        app:showAsAction="always"
+        android:title="@string/action_fav">
+    </item>
+    <item
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/action_share"
+        android:icon="@drawable/ic_share_black_24dp"
+        app:showAsAction="ifRoom"
+        android:title="@string/action_share">
+    </item>
+</menu>
