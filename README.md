@@ -1,6 +1,11 @@
 # PopularMovies2
 This is the third project for the Udacity Android Nanodegree.  Its a continuation of the Popular Movies App Phase 1.
 
+# Screenshots
+
+<img src="Screenshot_1542412777.png" width="300" height="500">   <img src="Screenshot_1542412834.png" width="300" height="500">
+<img src="Screenshot_1542412895.png" width="300" height="500">
+
 # Create an API KEY
 Note, that in order to run this app you will need an API Key.  Follow these instructions:
 - Create a free account at The Movie DB by going to the following 
